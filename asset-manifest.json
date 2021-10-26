@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/teamsols/static/css/main.0465445d.chunk.css",
+    "main.js": "/teamsols/static/js/main.2e992b97.chunk.js",
+    "main.js.map": "/teamsols/static/js/main.2e992b97.chunk.js.map",
+    "runtime-main.js": "/teamsols/static/js/runtime-main.90ba7bd2.js",
+    "runtime-main.js.map": "/teamsols/static/js/runtime-main.90ba7bd2.js.map",
+    "static/css/2.0f4e8d6c.chunk.css": "/teamsols/static/css/2.0f4e8d6c.chunk.css",
+    "static/js/2.1e940b05.chunk.js": "/teamsols/static/js/2.1e940b05.chunk.js",
+    "static/js/2.1e940b05.chunk.js.map": "/teamsols/static/js/2.1e940b05.chunk.js.map",
+    "index.html": "/teamsols/index.html",
+    "static/css/2.0f4e8d6c.chunk.css.map": "/teamsols/static/css/2.0f4e8d6c.chunk.css.map",
+    "static/css/main.0465445d.chunk.css.map": "/teamsols/static/css/main.0465445d.chunk.css.map",
+    "static/js/2.1e940b05.chunk.js.LICENSE.txt": "/teamsols/static/js/2.1e940b05.chunk.js.LICENSE.txt",
+    "static/media/android.6c7161a2.svg": "/teamsols/static/media/android.6c7161a2.svg",
+    "static/media/apple.4be59d72.svg": "/teamsols/static/media/apple.4be59d72.svg",
+    "static/media/cms-wp.ac2f634d.svg": "/teamsols/static/media/cms-wp.ac2f634d.svg",
+    "static/media/css3.74d7bcc1.svg": "/teamsols/static/media/css3.74d7bcc1.svg",
+    "static/media/html5.2b2e078a.svg": "/teamsols/static/media/html5.2b2e078a.svg",
+    "static/media/js.90384b2d.svg": "/teamsols/static/media/js.90384b2d.svg",
+    "static/media/laravel.e1b546db.svg": "/teamsols/static/media/laravel.e1b546db.svg",
+    "static/media/reactjs.f1484e29.svg": "/teamsols/static/media/reactjs.f1484e29.svg",
+    "static/media/sass.8bc32fe1.svg": "/teamsols/static/media/sass.8bc32fe1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90ba7bd2.js",
+    "static/css/2.0f4e8d6c.chunk.css",
+    "static/js/2.1e940b05.chunk.js",
+    "static/css/main.0465445d.chunk.css",
+    "static/js/main.2e992b97.chunk.js"
+  ]
+}
