@@ -8,7 +8,7 @@ const MHeader = () => {
         <main className="container">
           <div className="row">
             <div className="col-6">
-              <NavLink to="/">
+              <NavLink exact to="/teamsols">
                 <img
                   src="https://i.ibb.co/HK5CY43/teamsols-logo.png"
                   alt="head-logo"
@@ -53,7 +53,7 @@ const MHeader = () => {
                       <NavLink
                         className="nav-link active"
                         aria-current="page"
-                        to="/"
+                        to="/teamsols"
                       >
                         Home
                       </NavLink>
